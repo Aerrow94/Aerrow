@@ -1,0 +1,6 @@
+git and git hub by rahul poruri
+
+1. git clone url
+2. git add file-name
+3. git commit -m "write your message here"
+4. git push origin master
